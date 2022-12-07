@@ -5,7 +5,9 @@ Created on Fri Sep  2 07:49:32 2022
 @author: Jaider R.
 """
 
-## que sera ese 15s¡
+## que sera ese 15s¡mlmlce
+
+## vd mv fjnvk dl
 
 ###### librerias ##############################################################
 
