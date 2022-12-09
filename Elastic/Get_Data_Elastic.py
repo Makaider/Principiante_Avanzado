@@ -73,5 +73,5 @@ df = get_data_from_elastic()
 
 df
 
-
+# - estamos pranticando el bien del mal
 # que esta pasando aqui?
