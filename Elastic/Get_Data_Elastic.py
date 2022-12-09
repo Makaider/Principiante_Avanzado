@@ -70,4 +70,8 @@ def get_data_from_elastic():
     return df
 
 df = get_data_from_elastic()
-print(df.head())
+
+df
+
+
+# que esta pasando aqui?
