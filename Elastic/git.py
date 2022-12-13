@@ -5,7 +5,7 @@ var4 = "Cuanto es 2+2?"
 
 print(var2, var1)
 
-var4 = "Cuanto es 2+34444*8"
+var4 = "Cuanto es 28+34444*8"
 
 
 print(var2, var1)
