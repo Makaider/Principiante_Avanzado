@@ -9,8 +9,9 @@ print(var4, " =",2+3*8)
 
 var5 = "hola, me llamo Jaider"
 var6 = "Tengo 25 años"
-
+var7 = 2*2/4
 # a veces no comprendo
-print(var5, var6)
+print(var5, var7)
+print(var6)
 
 # comparemos de nuevo
