@@ -9,7 +9,7 @@ print(var4, "==",2+3*8)
 
 var5 = "hola, me llamo Luis Ramos "
 var6 = "Tengo 45 años"
-var8= input(print("Hola de nuevo: "))
+var8= input(print("Hola de nuevo a ver que: "))
 var7 = 27*9/4
 # a veces no comprendo
 print(var5, var7)
