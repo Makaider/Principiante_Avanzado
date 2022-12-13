@@ -1,4 +1,4 @@
-var1 = "Estamos en modo prueba"
+var1 = "Estamos en modo prueba 123"
 var2 = "que estamos en que?"
 
 var4 = "Cuanto es 2+2?"
