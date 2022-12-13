@@ -9,7 +9,7 @@ var4 = "Cuanto es 2+3*8"
 
 
 print(var2, var1)
-print(var4, " =",2+3*8)
+print(var4, "==",2+3*8)
 
 var8 = input(print("Como te llamas?"))
 var5 = "hola, me llaman " + var8
