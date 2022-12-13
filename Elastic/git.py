@@ -12,3 +12,5 @@ var6 = "Tengo 25 años"
 
 # a veces no comprendo
 print(var5, var6)
+
+# comparemos de nuevo
