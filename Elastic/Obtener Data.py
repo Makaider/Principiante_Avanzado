@@ -8,6 +8,11 @@ Created on Tue Jun 28 10:45:24 2022
 from elasticsearch import Elasticsearch, helpers
 import logging
 import traceback
+# esto ya no tiene tanta importancia
+
+
+# estoy en modo prueba para Git
+# dknvknlsjfb vljcb nsfnkvpndñk
 
 # Credenciales Clúster nuevo #################################################
 ELASTIC_ID = "deployment_tests_real_experience:ZWFzdHVzMi5henVyZS5lbGFzdGljLWNsb3VkLmNvbTo0NDMkMzRiN2I5MGM5YWJjNDQ1Nzg0N2ViM2ZmNWZkNmI3N2UkOTVhZDVhYmU5NzY3NGVjNGE1ZGQ0MWZjNWFlOGZjMmQ="
