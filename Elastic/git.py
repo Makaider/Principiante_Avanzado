@@ -5,7 +5,7 @@ var4 = "Cuanto es 2+2?"
 
 print(var2, var1)
 
-var4 = "Cuanto es 2+3*8"
+var4 = "Cuanto es 2+34444*8"
 
 
 print(var2, var1)
@@ -13,7 +13,7 @@ print(var4, "==",2+3*8)
 
 var8 = input(print("Como te llamas?"))
 var5 = "hola, me llaman " + var8
-var6 = "Tengo 99 años"
+var6 = "Tengo 966669 años"
 var7 = 2*2/4
 # a veces no comprendo
 print(var5, var7)
