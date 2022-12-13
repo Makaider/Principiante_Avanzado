@@ -6,3 +6,8 @@ var4 = "Cuanto es 2+3*8"
 
 print(var2, var1)
 print(var4, " =",2+3*8)
+
+var5 = "hola, me llamo Jaider"
+var6 = "Tengo 25 años"
+
+print(var5, var6)
